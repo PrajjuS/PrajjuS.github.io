@@ -2,4 +2,4 @@
 
 ```Noob learning html and did this simple website for myself```
 
-Website URL - www.prajjus.tk
+Website URL: https://prajjus.tk
